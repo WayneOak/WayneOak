@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wayne
 - 👀 I’m interested in learning programming and coding
-- 🌱 I’m currently taking the Harvard CS50 course online and am on week 5. Week 4 was interesting, I didn't realise how easy it is to manipulate image files, or any file for that matter.
+- 🌱 I’m currently taking the Harvard CS50 course online and am on week 7, SQL. Week 4 was interesting, I didn't realise how easy it is to manipulate image files, or any file for that matter.
 - Books I'm reading or have recently finished.
   - Pragmatic Thinking & Learning. Refactor your wetware by Andy Hunt. (http://pragprog.com/titles/ahptl)
     - The rich-mode, linear-mode explanations really hit home for me. I have the most difficulty switching into rich-mode, linear-mode is definitely my default.
