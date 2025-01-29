@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wayne
 - 👀 I’m interested in learning programming and coding
-- 🌱 I’ve recently completed augiting the Harvard CS50 course online. That was a very good program and I would have loved to attended in person. Now on to more Python learning.
+- 🌱 I’ve recently completed auditing the Harvard CS50 course online. That was a very good program and I would have loved to attended in person. Now on to more Python learning.
 - Books I'm reading or have recently finished.
   - Pragmatic Thinking & Learning. Refactor your wetware by Andy Hunt. (http://pragprog.com/titles/ahptl)
   -   The rich-mode, linear-mode explanations really hit home for me. I have the most difficulty switching into rich-mode, linear-mode is definitely my default.
